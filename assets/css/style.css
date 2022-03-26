@@ -16,7 +16,7 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-header h1 .seo {
+header h1 span {
     color: #d9dcd6;
 }
 header nav {
